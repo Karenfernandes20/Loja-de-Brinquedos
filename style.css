@@ -1,0 +1,29 @@
+body{
+    background-color: pink;
+}
+title{
+    font-size: medium;
+}
+
+nav#menu {
+    display: block;
+}
+
+nav#menu ul{
+    position: relative;
+    list-style: none;
+    text-transform: uppercase;
+    top:0px;
+    left:0px;
+}
+
+nav#menu li{
+    display: inline-block;
+    background-color: yellow;
+    padding: 10px;
+    margin: 2px;
+}
+
+#mais-vendidos{
+    color: blue;
+}
